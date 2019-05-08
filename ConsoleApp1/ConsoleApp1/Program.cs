@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello GitHub!");
-            Console.WriteLine("画面を閉じるには何かキーを入力してください");
+            Console.WriteLine("画面を閉じるには何かキーを入力してください。");
             Console.ReadKey();
         }
     }
