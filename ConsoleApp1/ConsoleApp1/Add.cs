@@ -8,11 +8,5 @@ namespace ConsoleApp1
 {
     class Add
     {
-        private int num;
-        public int add(int a, int b)
-        {
-            num = a + b;
-            return num;
-        }
     }
 }
